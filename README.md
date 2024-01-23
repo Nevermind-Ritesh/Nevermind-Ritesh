@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSsqs-4YYdmLyXZH45yk6Kl5D3CHJ8IRK1g&usqp=CAU)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-_ahoSJuID4bpm2JfVY5910XBUwn0FSulA&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Ritesh Jaiswal</h1>
 <h3 align="center">Passionate data enthusiast leveraging code to unravel insights and unlock the potential within data sets.</h3>
