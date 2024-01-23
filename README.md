@@ -1,8 +1,9 @@
 [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2F2IudUHdI075HL02Pkk%2Fgiphy.gif&tbnid=Fe9w5pmKk2xu7M&vet=12ahUKEwjQoJyBr_ODAxU8V2wGHTxiAI8QMygSegUIARCIAQ..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fjava-developer&docid=BXPeD7aliyjn8M&w=480&h=360&q=animated%20banner%20gif%20coding&ved=2ahUKEwjQoJyBr_ODAxU8V2wGHTxiAI8QMygSegUIARCIAQ)
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">
 
 <h1 align="center">Hi 👋, I'm Ritesh Jaiswal</h1>
 <h3 align="center">Passionate data enthusiast leveraging code to unravel insights and unlock the potential within data sets.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">
 
 - 🌱 I’m currently learning **Data Science**
 
