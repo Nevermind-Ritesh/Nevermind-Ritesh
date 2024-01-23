@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Jaiswal</h1>
 <h3 align="center">Passionate data enthusiast leveraging code to unravel insights and unlock the potential within data sets.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSb61wIsDNIZc5hmFzLqBCxjMJLJEMwe-qLA&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">
 
 - 🌱 I’m currently learning **Data Science**
 
